@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CinemexTask.iml" filepath="$PROJECT_DIR$/CinemexTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CinemexTask.iml" filepath="$PROJECT_DIR$/CinimexTask.iml" />
     </modules>
   </component>
 </project>
