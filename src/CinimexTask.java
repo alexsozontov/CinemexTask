@@ -1,6 +1,6 @@
 import java.util.stream.IntStream;
 
-public class CinemexTask {
+public class CinimexTask {
 
   public String checkPalindromeString(String s) {
     String reverse = new StringBuffer(s).reverse().toString();
